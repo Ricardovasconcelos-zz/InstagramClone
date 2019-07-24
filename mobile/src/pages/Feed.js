@@ -106,6 +106,7 @@ const styles = StyleSheet.create({
     marginTop: 20
   },
   feedItemHeader: {
+    paddingTop: 20,
     paddingHorizontal: 15,
     flexDirection: 'row',
     justifyContent: 'space-between',

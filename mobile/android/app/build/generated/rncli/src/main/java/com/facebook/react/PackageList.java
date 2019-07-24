@@ -15,6 +15,8 @@ import com.instaclone.R;
 
 // react-native-gesture-handler
 import com.swmansion.gesturehandler.react.RNGestureHandlerPackage;
+// react-native-image-picker
+import com.imagepicker.ImagePickerPackage;
 
 public class PackageList {
   private Application application;
@@ -48,7 +50,8 @@ public class PackageList {
   public ArrayList<ReactPackage> getPackages() {
     return new ArrayList<>(Arrays.<ReactPackage>asList(
       new MainReactPackage(),
-      new RNGestureHandlerPackage()
+      new RNGestureHandlerPackage(),
+      new ImagePickerPackage()
     ));
   }
 }

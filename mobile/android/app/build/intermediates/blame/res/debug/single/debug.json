@@ -480,6 +480,10 @@
         "source": "/home/ricardo/.gradle/caches/transforms-2/files-2.1/1f011209d8d07d1219451181e89bd364/res/layout/abc_popup_menu_header_item_layout.xml"
     },
     {
+        "merged": "/home/ricardo/Development/InstagramClone/mobile/android/app/build/intermediates/res/merged/debug/layout_list_item.xml.flat",
+        "source": "/home/ricardo/Development/InstagramClone/mobile/node_modules/react-native-image-picker/android/build/intermediates/packaged_res/debug/layout/list_item.xml"
+    },
+    {
         "merged": "/home/ricardo/Development/InstagramClone/mobile/android/app/build/intermediates/res/merged/debug/anim_abc_slide_in_bottom.xml.flat",
         "source": "/home/ricardo/.gradle/caches/transforms-2/files-2.1/1f011209d8d07d1219451181e89bd364/res/anim/abc_slide_in_bottom.xml"
     },
@@ -970,6 +974,10 @@
     {
         "merged": "/home/ricardo/Development/InstagramClone/mobile/android/app/build/intermediates/res/merged/debug/layout_abc_search_view.xml.flat",
         "source": "/home/ricardo/.gradle/caches/transforms-2/files-2.1/1f011209d8d07d1219451181e89bd364/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/ricardo/Development/InstagramClone/mobile/android/app/build/intermediates/res/merged/debug/xml_provider_paths.xml.flat",
+        "source": "/home/ricardo/Development/InstagramClone/mobile/node_modules/react-native-image-picker/android/build/intermediates/packaged_res/debug/xml/provider_paths.xml"
     },
     {
         "merged": "/home/ricardo/Development/InstagramClone/mobile/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",

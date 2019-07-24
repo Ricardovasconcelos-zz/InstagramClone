@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Jul 24 00:24:53 BRT 2019
+#Wed Jul 24 02:11:36 BRT 2019
 56.path=lib/x86/libfolly_json.so
 5.base=/home/ricardo/Development/InstagramClone/mobile/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
 42.base=/home/ricardo/Development/InstagramClone/mobile/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
