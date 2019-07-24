@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/ricardo/Development/instaclone/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-th/values-th.xml",
+            "outputFile": "/home/ricardo/Development/InstagramClone/mobile/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-th/values-th.xml",
             "map": [
                 {
                     "source": "/home/ricardo/.gradle/caches/transforms-2/files-2.1/1f011209d8d07d1219451181e89bd364/res/values-th/values-th.xml",
