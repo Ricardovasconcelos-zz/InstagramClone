@@ -1,5 +1,23 @@
 # InstagramClone
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Watch the video](https://i.imgur.com/ulUqxeZ.png)](https://youtu.be/-o3LZ4KJ3Jg)
+
+# About this Project
+This project is a simple Instagram clone built with React, React Native and Node
+
+# Some Observations about this project
+This project is part of my personal portfolio, I'm trying improve my skills, so, I'll be happy if you could provide me any feedback about the project.
+
+You can report that could make me a better developer!
+
+Email-me: ricardovasconcelos.dev@gmail.com
+
+Connect with me at Linkedin: https://www.linkedin.com/in/ricardo-vasconcelos
+
+Also, you can use this Project as you wish!!
+
+It's free!
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
 ## Available Scripts
 
